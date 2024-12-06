@@ -1,4 +1,4 @@
-# Data Engineering practice: Spark and data lakes in AWS
+# AWS Lakehouse Solution Developer
 
 This respository contains the **final project of `Spark and Data Lakes` of Udacity.** 
 
